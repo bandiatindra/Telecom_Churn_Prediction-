@@ -1,6 +1,6 @@
 # Telecom_Churn_Prediction-
 
-Churn is a one of the biggest problem in the telecom industry. Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%. In this analysis I have tried to first develop some hypothesis by cinducing a detailed exploratory data analysis for churn in the Telecom Industry and used predictive analytics to accurately predict the customers wh are likely to churn.
+Churn is a one of the biggest problem in the telecom industry. Research has shown that the average monthly churn rate among the top 4 wireless carriers in the US is 1.9% - 2%. In this analysis I have first developed some hypothesis by conducting a detailed exploratory data analysis for churn in the telecom industry and used predictive analytics to accurately identify the customers who are likely to churn.
 
 I have explored the following classficiation techniques and compared their accuracy and other metrics such as ROC-AUC score, True Positive Rate and False Positive Rate.
 
@@ -12,7 +12,7 @@ Models Explored -
 4. ADABoost
 5. XG Boost
 
-Overall Approach is as follows -
+Overall approach is as follows -
 
 1. Data Preprocessing - To check for any missing values, correlated variables and dummy encoding
 2. EDA to develop hypothesis
